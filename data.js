@@ -35,7 +35,7 @@ export const tweetsData = [
     },
         {
         handle: `@NoobCoder12`,
-        profilePic: `images/flower.png`,
+        profilePic: `https://ideawake.com/wp-content/uploads/2017/02/Ask-the-right-questions.jpg`,
         likes: 10,
         retweets: 3,
         tweetText: `Are you a coder if you only know HTML?`,
